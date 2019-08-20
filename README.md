@@ -44,7 +44,7 @@ status_url----------------Link to the tweet
 entities_str--------------JSON data
 
 
-The data is provided as .TSV, .XLSX, and .ODT.
+The data is provided as .TSV, .XLSX, and .ODS.
 
 You may use, share, and edit this data for the benefit of education and research, however please keep this READ ME with the set.
 
