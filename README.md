@@ -1,4 +1,5 @@
 READ ME
+
 This a dataset of Twitter activity around the accounts of @UniUtrecht and @UtrechtUni. Data was gathered using TAGS (developed by Martin Hawkse: https://tags.hawksey.info/get-tags/).
 
 Maranke Wieringa, MA set up the collection of the 949 tweets containing ‘UtrechtUni OR UniUtrecht’. on August 16th, which ran up and including August 20th. As the API goes back several days, the dataset spans the dates August 6th up to and including August 20th.
